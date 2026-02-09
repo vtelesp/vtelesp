@@ -1,36 +1,51 @@
-Olá, eu sou a Valeria 👋
+# 👋 Olá, eu sou a Valeria
 
-💻 Desenvolvedora em formação
+<div align="center">
 
-Atualmente estou focada em aprender Java e os fundamentos da programação, construindo projetos simples para evoluir na prática e fortalecer minha lógica.
+💻 **Desenvolvedora em formação**
+☕ Estudando **Java** e fundamentos da programação
+🚀 Evoluindo um commit de cada vez
 
-Este GitHub é o meu espaço de aprendizado: aqui registro meus estudos, experimentos, erros, acertos e toda a minha evolução como desenvolvedora 🚀
+</div>
 
-🧠 O que estou estudando agora
+---
 
-Java ☕
+## 🌱 Sobre mim
 
-Lógica de Programação
+Atualmente estou no início da minha jornada como desenvolvedora, focada em aprender **Java**, fortalecer a **lógica de programação** e construir uma base sólida por meio da prática.
 
-Conceitos iniciais de Programação Orientada a Objetos (POO)
+Uso este GitHub como um diário técnico: aqui registro meus estudos, projetos simples, erros, aprendizados e toda a minha evolução ao longo do caminho.
 
-Boas práticas básicas de código
+---
 
-📂 O que você vai encontrar por aqui
+## 🧠 O que estou estudando agora
 
-Exercícios práticos de Java
+* ☕ Java
+* 🧩 Lógica de Programação
+* 🧱 Programação Orientada a Objetos (POO)
+* ✨ Boas práticas básicas de código
 
-Pequenos projetos de estudo
+---
 
-Códigos simples focados em aprendizado
+## 📂 O que você vai encontrar por aqui
 
-Evolução gradual dos meus conhecimentos
+* 📌 Exercícios práticos de Java
+* 🛠️ Pequenos projetos de estudo
+* 🧪 Experimentos e códigos simples
+* 📈 Evolução gradual dos meus conhecimentos
 
-🌱 Meu momento
+---
 
-Estou no início da jornada na área de desenvolvimento, buscando minha primeira oportunidade como estagiária/júnior. Meu foco é aprender com consistência, curiosidade e prática diária — um commit de cada vez.
+## 🎯 Meu momento
 
-✨ Em constante aprendizado. Sempre aberta a evoluir.
+Estou buscando minha **primeira oportunidade como estagiária ou desenvolvedora júnior**, com foco em aprendizado contínuo, curiosidade e consistência.
+
+Acredito que evolução acontece com prática diária — e é exatamente isso que você vai ver por aqui 💙
+
+---
+
+✨ *Em constante aprendizado. Sempre aberta a evoluir.*
+****
 
 <!---
 V-TelesP/V-TelesP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
